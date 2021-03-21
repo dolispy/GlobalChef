@@ -1,0 +1,61 @@
+
+ <!--Logo-->
+.cnote{
+    color:#FFC72C;
+    font-size: 40px;
+    font-family: 'Maven Pro', 
+    sans-serif;
+    letter-spacing: 4px;
+    text-align: left;
+}
+
+.img {
+    background: transparent url("../images/2476071@2x.jpg");
+    height: auto;
+}
+
+.texting{
+    color: #FFC72C;
+    font-family: 'Maven Pro', sans-serif;
+    text-align: center;
+    opacity: 1;
+    font-size: 34px;
+    }
+
+.navlinks{
+    font-family: 'Maven Pro', sans-serif;
+    
+}
+
+.middle{
+        font-family: 'Maven Pro', sans-serif;
+    text-align: center;
+    opacity: 1;
+    font-size: 60px;
+    color: white;
+}
+
+.bottom{
+    top: 697px;
+    left: 888px;
+    width: 146px;
+    height: 41px;
+}
+
+.navbar-height{
+    z-index: 1;
+}
+html,
+body,
+header,
+.view{
+    height: 100%;
+}
+
+
+.navbar-custom { 
+    background-color: #211F1D; 
+    mix-blend-mode: normal;
+    opacity: 1;
+} 
+
